@@ -38,4 +38,29 @@ control de versiones y desarrollo.
 
 ## Equipo
 
+## Identidad de Marca y Posicionamiento
+
+### Manual de Marca
+* **Nombre:** SmartDesk ERP
+* **Eslogan:** Seguridad, eficiencia y soporte financiero integral.
+* **Descriptor:** Gestión Financiera y Soporte Operativo.
+* **Misión:** Optimizar la infraestructura tecnológica y la atención operativa en entidades financieras mediante una plataforma centralizada que garantice la continuidad del servicio y el control de activos.
+
+### Arquitectura Visual
+* **Escudo Francés:** Representa la protección institucional, la seguridad bancaria y la gestión de riesgos.
+* **Headset / Audífonos:** Simbolizan el soporte técnico y la atención al cliente en la mesa de ayuda.
+* **Bocadillo de Diálogo:** Representa la comunicación y la gestión fluida de tickets.
+* **Marca de Verificación (Check):** Simboliza la resolución efectiva de incidentes y el cumplimiento de mantenimientos.
+
+### Paleta de Colores
+* **Azul Profundo Financiero:** `#07192F` (Fondo institucional)
+* **Azul Corporativo:** `#0B2545` (Contraste y estructura principal)
+* **Azul Tecnológico:** `#134074` (Contenedores y bordes de módulos)
+* **Verde Eficiencia / Neón:** `#00D4B2` / `#80FFEA` (Estados activos, resolución de tickets y acentos)
+* **Blanco Puro:** `#FFFFFF` (Tipografía principal)
+
+### Tipografía Oficial
+* **Logotipo / Encabezados:** Inter / Montserrat (Bold 800 para "Smart", Light 300 para "Desk")
+* **Cuerpo de texto y tablas:** Segoe UI / Roboto
+
 Proyecto académico de Ingeniería de Software II.
